@@ -1,0 +1,29 @@
+.componentsLayoutDemoFixedLogo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.siteLayout {
+  background: #fff;
+  padding: '0 50px';
+  margin-top: 64;
+}
+
+.siteLayoutBackground {
+  background: #fff;
+  padding: 24;
+  min-height: 500;
+}
+
+.header {
+  position: 'fixed';
+  z-index: 1;
+  width: '100%';
+}
+
+.navMenu:last-child {
+  float: right;
+}
